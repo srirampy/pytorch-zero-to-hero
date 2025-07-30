@@ -29,7 +29,6 @@ This repository contains step-by-step tutorials and notebooks on the following c
 
 Each section includes:
 -  Well-commented code (Python and PyTorch)
--  Jupyter Notebooks for practice
 -  Explanations for beginners
 -  Visuals and diagrams where helpful
 
